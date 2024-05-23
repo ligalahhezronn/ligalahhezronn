@@ -1,5 +1,5 @@
 - 👋 Holla! Como estas? I’m @ligalahhezronn
-- 👀 I’m a Frontend Development
+- 👀 I’m a Frontend Developer
 - 🌱 I majorly build using Angular
 - 💪 My strengths are Typescript, CSS including TailwindCSS and HTML5
 - 💞️ I’m looking to collaborate on frontend projects and anything that will help me enhance my skills.
