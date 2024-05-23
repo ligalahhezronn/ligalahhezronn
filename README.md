@@ -1,11 +1,12 @@
-- 👋 Holla!, I’m @ligalahhezronn
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on frontend projects or anything that will help me enhance my skills.
+- 👋 Holla! Como estas? I’m @ligalahhezronn
+- 👀 I’m a Frontend Development
+- 🌱 I majorly build using Angular
+- 💪 My strengths are Typescript, CSS including TailwindCSS and HTML5
+- 💞️ I’m looking to collaborate on frontend projects and anything that will help me enhance my skills.
 - ✨ I'm thirsty for new information and challanges!
 - 📫 You can reach me via email at [ligalahh@gmail.com](mailto:ligalahh@gmail.com) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy experimenting and creating stunning web interfaces!
+- ⚡ Fun fact: I enjoy experimenting and creating stunning interfaces!
 
 
 <!---
