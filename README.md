@@ -1,6 +1,6 @@
 ### Hi  👋 , I'm Ligalah Hezron 
 🥇  Software Engineer<br>
-🎓  Studied [Computer Science](https://ligalah.com) at Masinde Muliro University of Science and Technology, Kenya <br>
+🎓  Studied [Computer Science](https://2-d-portfolio.vercel.app/) at Masinde Muliro University of Science and Technology, Kenya <br>
 📚  Currently learning about Clerk and JSON <br/>
 ☎  If it's a bug, call me <br>
 
