@@ -5,7 +5,7 @@
 ☎  If it's a bug, call me <br>
 
 
-[![Ligalah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ligalahhezronn&hide=issues&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ligalahhezronn/github-readme-stats) <br>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ligalahhezronn&hide=issues&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ligalahhezronn/github-readme-stats) <br>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
