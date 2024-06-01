@@ -28,7 +28,7 @@ My strengths include:
 
 ### Projects
 
-Here are some of the projects I've worked on:
+Here are some of my projects:
 - [2D Portfolio](https://2-d-portfolio.vercel.app/)
 
 Feel free to check out my repositories for more. <br><br>
