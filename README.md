@@ -35,10 +35,10 @@ My strengths include: <br> <br>
 
  
 - **Communication**:
-   - Fluent in English
+   - I am fluent in English
    
 - **Focus**:
-   - Passionate about Software Engineering, particularly cross-platform application development. <br> <br> <br> <br>
+   - I have great interest in Software Engineering, particularly fullstack development. <br> <br> <br> <br>
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ligalahhezronn&hide=issues&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ligalahhezronn/github-readme-stats) <br>
