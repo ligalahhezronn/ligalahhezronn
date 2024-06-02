@@ -38,7 +38,7 @@ My strengths include: <br> <br>
    - I am fluent in English
    
 - **Focus**:
-   - I have great interest in Software Engineering, particularly web development. <br> <br> <br> <br>
+   - I have great interest in Software Engineering, particularly <b>progressive web apps</b>. <br> <br> <br> <br>
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ligalahhezronn&hide=issues&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ligalahhezronn/github-readme-stats) <br>
